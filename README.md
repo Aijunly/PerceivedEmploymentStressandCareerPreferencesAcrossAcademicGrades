@@ -1,2 +1,2 @@
 # codePAPERS
-the code of Julia for my papers.
+the code for my papers.
