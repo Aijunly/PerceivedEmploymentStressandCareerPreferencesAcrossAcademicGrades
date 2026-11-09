@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and this software record."
+title: "Replication code for: A Survey-Based Analysis of Perceived Employment Pressure and Career Preferences Among Young Adults"
+type: software
+version: 1.0.0
+date-released: 2026-11-05
+license: MIT
+repository-code: "https://github.com/REPLACE-WITH-ACCOUNT/REPLACE-WITH-REPO"
+# Before archiving on Zenodo, replace every REPLACE-WITH-* field and add the
+# reserved DOI below (Zenodo shows it before you publish the record).
+# identifiers:
+#   - type: doi
+#     value: 10.5281/zenodo.REPLACE-WITH-ID
+
+authors:
+  - family-names: "REPLACE-WITH-SURNAME"
+    given-names: "REPLACE-WITH-GIVEN-NAME"
+    affiliation: "REPLACE-WITH-DEPARTMENT, REPLACE-WITH-UNIVERSITY, REPLACE-WITH-CITY, China"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  # - family-names: "..."
+  #   given-names: "..."
+  #   affiliation: "..."
